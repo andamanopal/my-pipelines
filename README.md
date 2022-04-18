@@ -11,6 +11,7 @@ Writing lines of code for data and models preparations can take hours to prepare
 - Error analysis by confusion matrix
 - Visualization model's vision
 
+## Working-In-Progress Pipelines
 **2. Image Segmentation**
 
 **3. Object Detection**
