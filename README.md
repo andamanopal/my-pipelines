@@ -12,8 +12,13 @@ Writing lines of code for data and models preparations can take hours to prepare
 - Visualization model's vision
 
 **2. Image Segmentation**
+
 **3. Object Detection**
+
 **4. NER Tagging**
+
 **5. Machine Translation**
+
 **6. Forecasting with Regression**
+
 
