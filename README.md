@@ -16,7 +16,7 @@ Writing lines of code for data and models preparations can take hours to prepare
 
 **3. Object Detection**
 
-**4. NER Tagging**
+**4. NLP Token Classification**
 
 **5. Machine Translation**
 
